@@ -7,17 +7,20 @@
   "keywords": ["a", {"value": "word"}],
   "version": "0.1.0",
   "distributions": [],
-  "extraProperties": {
-    "experimentProperties": {
-      "functionAssessed": "None",
-      "languages": ["English"],
-      "validation": [],
-      "accessibility": [],
-      "requirements": {
-        "platforms": ["Computer"],
-        "devices": ["Device1"],
-        "software": ["Program1"]
+  "extraProperties": [
+    {
+      "category": "experimentProperties",
+      "value": {
+        "functionAssessed": "None",
+        "languages": ["English"],
+        "validation": [],
+        "accessibility": [],
+        "requirements": {
+          "platforms": ["Computer"],
+          "devices": ["Device1"],
+          "software": ["Program1"]
+        }
       }
-    }
+    ]
   }
 }
