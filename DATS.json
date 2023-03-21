@@ -9,18 +9,42 @@
   "distributions": [],
   "extraProperties": [
     {
-      "category": "experimentProperties",
-      "value": {
-        "functionAssessed": "None",
-        "languages": ["English"],
-        "validation": [],
-        "accessibility": [],
-        "requirements": {
-          "platforms": ["Computer"],
-          "devices": ["Device1"],
-          "software": ["Program1"]
-        }
-      }
+      "category": "experimentFunctionAssessed",
+      "values": [
+        {"value": "None"}
+      ]
+    },
+    {
+      "category": "experimentLanguages",
+      "values": [
+        {"value": "English"}
+      ]
+    },
+    {
+      "category": "experimentValidation",
+      "values": []
+    },
+    {
+      "category": "experimentAccessibility",
+      "values": []
+    },
+    {
+      "category": "experimentRequiredPlatforms",
+      "values": [
+        {"value": "computer"}
+      ]
+    },
+    {
+      "category": "experimentRequiredDevices",
+      "values": [
+        {"value": "Device1"}
+      ]
+    },
+    {
+      "category": "experimentRequiredSoftware",
+      "values": [
+        {"value": "Program1"}
+      ]
     }
   ]
 }
